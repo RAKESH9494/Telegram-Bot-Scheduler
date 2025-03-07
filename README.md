@@ -18,8 +18,8 @@ Before running this project, ensure you have:
 
 1. Clone this repository:
    ```sh
-   git clone <repository_url>
-   cd <project_directory>
+   git clone https://github.com/RAKESH9494/Telegram-Bot-Scheduler
+   cd Telegram-Bot-Scheduler
    ```
 
 2. Install dependencies:
